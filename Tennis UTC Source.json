@@ -28,8 +28,8 @@
           "version": "1.0.0",
           "buildVersion": "1",
           "date": "2025-08-17T13:09:00+02:00",
-          "localizedDescription": null,
-          "minOSVersion": null
+          "localizedDescription": "Initial release.",
+          "minOSVersion": "17.4"
         }
       ],
       "appPermissions": {
