@@ -13,7 +13,7 @@
     {
       "name": "tennis_ios",
       "bundleIdentifier": "com.example.tennisIos",
-      "marketplaceID": "",
+      "marketplaceID": "0123456789",
       "developerName": "Schmitzi",
       "subtitle": "Doppel-Kombinationen",
       "localizedDescription": "Lasse es dir generieren",
