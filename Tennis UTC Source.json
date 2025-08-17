@@ -1,0 +1,43 @@
+{
+  "name": "Tennis UTC Source",
+  "subtitle": "Quellen",
+  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "iconURL": "https://i.imgur.com/XbleneI.png",
+  "website": "",
+  "patreonURL": "",
+  "tintColor": "#6156e2",
+  "featuredApps": [
+    "com.example.tennisIos"
+  ],
+  "apps": [
+    {
+      "name": "tennis_ios",
+      "bundleIdentifier": "com.example.tennisIos",
+      "marketplaceID": "",
+      "developerName": "Schmitzi",
+      "subtitle": "Doppel-Kombinationen",
+      "localizedDescription": "Lasse es dir generieren",
+      "iconURL": "https://i.imgur.com/9drE0p2.png",
+      "tintColor": "#acd44c",
+      "category": "lifestyle",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/Sqinoxx/tennis_ipa/blob/main/Payload.ipa",
+          "size": 11700000,
+          "version": "1.0.0",
+          "buildVersion": null,
+          "date": "2025-08-17T13:09:00+02:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
