@@ -3,7 +3,7 @@
   "subtitle": "Quellen",
   "description": "Welcome to my source! Here you'll find all of my apps.",
   "iconURL": "https://i.imgur.com/XbleneI.png",
-  "website": "",
+  "website": "https://www.utc-neukirchen.at",
   "patreonURL": "",
   "tintColor": "#6156e2",
   "featuredApps": [
@@ -23,7 +23,7 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://github.com/Sqinoxx/tennis_ipa/blob/main/Payload.ipa",
+          "downloadURL": "https://raw.githubusercontent.com/Sqinoxx/tennis_ipa/main/Payload.ipa",
           "size": 11700000,
           "version": "1.0.0",
           "buildVersion": null,
