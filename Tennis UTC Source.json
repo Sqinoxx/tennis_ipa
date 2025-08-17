@@ -26,7 +26,7 @@
           "downloadURL": "https://raw.githubusercontent.com/Sqinoxx/tennis_ipa/main/Payload.ipa",
           "size": 11700000,
           "version": "1.0.0",
-          "buildVersion": "1",
+          "buildVersion": "2",
           "date": "2025-08-17T13:09:00+02:00",
           "localizedDescription": "Initial release.",
           "minOSVersion": "17.4"
